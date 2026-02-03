@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+prophet
+tensorflow
+openai
+streamlit
+plotly
+python-dotenv
